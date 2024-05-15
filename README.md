@@ -1,0 +1,1 @@
+# ada_design_patterns_em_java
