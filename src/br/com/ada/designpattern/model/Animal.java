@@ -1,6 +1,6 @@
 package br.com.ada.designpattern.model;
 
-import br.com.ada.designpattern.builder.PessoaBuilder;
+//import br.com.ada.designpattern.builder.PessoaBuilder;
 import lombok.*;
 
 @Data
